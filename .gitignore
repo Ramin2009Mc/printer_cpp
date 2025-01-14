@@ -1,0 +1,16 @@
+
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+
+*.tmp
+*.temp
+*.suo
+*.ipch
+*.pch
+*.vcxproj.*
+*.vscode/
+.vs/
